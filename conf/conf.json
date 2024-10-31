@@ -245,82 +245,7 @@
                 {
                   "children": [
                     {
-                      "activeTime": "1730272305235",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20200813131152-0wk5akh",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20210808180117-czj9bvb",
-                        "rootId": "20200813131152-0wk5akh"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "在内容块中遨游"
-                    },
-                    {
-                      "activeTime": "1730272306105",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20201210103036-1x3vm8t",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20210808180117-czj9bvb",
-                        "rootId": "20201210103036-1x3vm8t"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "文档块和标题块的转换"
-                    },
-                    {
-                      "activeTime": "1730272307508",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20201117101902-2ewjjum",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20210808180117-czj9bvb",
-                        "rootId": "20201117101902-2ewjjum"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "嵌入内容块"
-                    },
-                    {
-                      "activeTime": "1730272323480",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20200922101913-d5yitmq",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20210808180117-czj9bvb",
-                        "rootId": "20200922101913-d5yitmq"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "图标"
-                    },
-                    {
-                      "activeTime": "1730272325564",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20200922102318-oz84yu3",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20210808180117-czj9bvb",
-                        "rootId": "20200922102318-oz84yu3"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "主题"
-                    },
-                    {
-                      "activeTime": "1730272434583",
+                      "activeTime": "1730355809637",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20200812220555-lj3enxa",
@@ -335,23 +260,8 @@
                       "title": " k8s常见的存储插件 (StorageClass)"
                     },
                     {
-                      "activeTime": "1730340914572",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20241030150527-pt1ramv",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20241030150519-ipaot2r",
-                        "rootId": "20241030150527-pt1ramv"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "k8s常用的存储插件"
-                    },
-                    {
                       "active": true,
-                      "activeTime": "1730340915285",
+                      "activeTime": "1730365624442",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20241031095755-jnj3tgm",
@@ -363,7 +273,37 @@
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "redis安装"
+                      "title": "redis部署"
+                    },
+                    {
+                      "activeTime": "1730365622373",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241031154705-i1883rg",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20241030150519-ipaot2r",
+                        "rootId": "20241031154705-i1883rg"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "文档参考"
+                    },
+                    {
+                      "activeTime": "1730356166112",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241031111740-8q40i3v",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20241030150519-ipaot2r",
+                        "rootId": "20241031111740-8q40i3v"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "云端镜像推送到私服Harbor"
                     }
                   ],
                   "height": "",
@@ -563,7 +503,7 @@
     "[fe80::1de5:e664:c55c:a2b]",
     "[fe80::2196:54b:81b5:b1c2]",
     "[fe80::a45d:e546:3ba8:234f]",
-    "[fe80::c0b:2842:39f2:d097]",
+    "[fe80::2c48:68f9:39f2:d097]",
     "[fe80::80d9:98d7:1506:be9f]"
   ],
   "accessAuthCode": "",
@@ -577,10 +517,10 @@
     "isMicrosoftStore": false,
     "isInsider": false,
     "homeDir": "C:\\Users\\Administrator",
-    "workspaceDir": "G:\\k8s",
+    "workspaceDir": "E:\\opso-worspace\\ztdevdoc",
     "appDir": "F:\\tools\\SiYuan\\resources",
-    "confDir": "G:\\k8s\\conf",
-    "dataDir": "G:\\k8s\\data",
+    "confDir": "E:\\opso-worspace\\ztdevdoc\\conf",
+    "dataDir": "E:\\opso-worspace\\ztdevdoc\\data",
     "networkServe": false,
     "networkProxy": {
       "scheme": "",
@@ -1326,11 +1266,11 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 72,
+    "treeCount": 75,
     "cTreeCount": 100,
-    "blockCount": 2927,
+    "blockCount": 3137,
     "cBlockCount": 5000,
-    "dataSize": 4688992,
+    "dataSize": 4713568,
     "cDataSize": 104857600,
     "assetsSize": 3126137,
     "cAssetsSize": 104857600
