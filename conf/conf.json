@@ -245,53 +245,38 @@
                 {
                   "children": [
                     {
-                      "activeTime": "1730355809637",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20200812220555-lj3enxa",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20210808180117-czj9bvb",
-                        "rootId": "20200812220555-lj3enxa"
-                      },
-                      "docIcon": "1f389",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": " k8s常见的存储插件 (StorageClass)"
-                    },
-                    {
                       "active": true,
-                      "activeTime": "1730365624442",
+                      "activeTime": "1731919347946",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20241031095755-jnj3tgm",
+                        "blockId": "20241105103054-g2stry2",
                         "instance": "Editor",
                         "mode": "wysiwyg",
                         "notebookId": "20241030150519-ipaot2r",
-                        "rootId": "20241031095755-jnj3tgm"
+                        "rootId": "20241105103054-g2stry2"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "redis部署"
+                      "title": "金丝雀发布"
                     },
                     {
-                      "activeTime": "1730365622373",
+                      "activeTime": "1731572008341",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20241031154705-i1883rg",
+                        "blockId": "20241101173527-zbzd2rl",
                         "instance": "Editor",
                         "mode": "wysiwyg",
                         "notebookId": "20241030150519-ipaot2r",
-                        "rootId": "20241031154705-i1883rg"
+                        "rootId": "20241101173527-zbzd2rl"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "文档参考"
+                      "title": ".net8镜像打包"
                     },
                     {
-                      "activeTime": "1730356166112",
+                      "activeTime": "1731574024947",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20241031111740-8q40i3v",
@@ -304,6 +289,66 @@
                       "instance": "Tab",
                       "pin": false,
                       "title": "云端镜像推送到私服Harbor"
+                    },
+                    {
+                      "activeTime": "1731568667220",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241104105112-pmjtzd1",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20241030150519-ipaot2r",
+                        "rootId": "20241104105112-pmjtzd1"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "本地开发环境信息"
+                    },
+                    {
+                      "activeTime": "1731568671098",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241101104457-emmj6zq",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20241030150519-ipaot2r",
+                        "rootId": "20241101104457-emmj6zq"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "服务器环境准备"
+                    },
+                    {
+                      "activeTime": "1731568701719",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241101114108-45uh7p7",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20241030150519-ipaot2r",
+                        "rootId": "20241101114108-45uh7p7"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "k8s服务器节点扩容缩容"
+                    },
+                    {
+                      "activeTime": "1731568708028",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241108140222-przu0a8",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20241030150519-ipaot2r",
+                        "rootId": "20241108140222-przu0a8"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Harbor镜像私服安装"
                     }
                   ],
                   "height": "",
@@ -489,28 +534,29 @@
     "127.0.0.1",
     "192.168.1.227",
     "10.10.10.3",
-    "192.168.233.1",
-    "192.168.217.1",
-    "172.21.176.1",
-    "192.1.104.5",
+    "172.18.48.1",
     "30.233.233.233",
+    "169.254.181.35",
     "169.254.225.31",
+    "169.254.91.217",
+    "169.254.67.110",
     "[::1]",
-    "[fe80::21f1:a25d:aabf:b523]",
-    "[fe80::98f6:a106:5929:dbb1]",
+    "[2001:0:2851:b9f0:1c31:9c9b:93c2:81d3]",
+    "[fe80::864:e847:33b4:131]",
     "[fe80::78a1:60f6:c70b:cf87]",
+    "[fe80::21f1:a25d:aabf:b523]",
     "[fe80::2d6e:cf90:352:e11f]",
     "[fe80::1de5:e664:c55c:a2b]",
-    "[fe80::2196:54b:81b5:b1c2]",
-    "[fe80::a45d:e546:3ba8:234f]",
-    "[fe80::2c48:68f9:39f2:d097]",
-    "[fe80::80d9:98d7:1506:be9f]"
+    "[fe80::d915:785e:858:5bd9]",
+    "[fe80::b9e9:4d80:fc2d:436e]",
+    "[fe80::1c31:9c9b:93c2:81d3]",
+    "[fe80::984f:b714:e974:9946]"
   ],
   "accessAuthCode": "",
   "system": {
     "id": "99489ec8-1c01-433d-9bff-9a7efaa1ab87",
     "name": "XyAn",
-    "kernelVersion": "3.1.10",
+    "kernelVersion": "3.1.11",
     "os": "windows",
     "osPlatform": "Microsoft Windows 10 Pro",
     "container": "std",
@@ -1256,7 +1302,7 @@
       "apiTemperature": 1,
       "apiMaxContexts": 7,
       "apiBaseURL": "https://api.openai.com/v1",
-      "apiUserAgent": "SiYuan/3.1.10 std/windows",
+      "apiUserAgent": "SiYuan/3.1.11 std/windows",
       "apiProvider": "OpenAI",
       "apiVersion": ""
     }
@@ -1266,13 +1312,13 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 75,
+    "treeCount": 18,
     "cTreeCount": 100,
-    "blockCount": 3137,
+    "blockCount": 1778,
     "cBlockCount": 5000,
-    "dataSize": 4713568,
+    "dataSize": 2166078,
     "cDataSize": 104857600,
-    "assetsSize": 3126137,
+    "assetsSize": 1862755,
     "cAssetsSize": 104857600
   },
   "api": {

@@ -1,8 +1,13 @@
 [
   {
-    "rootID": "20241031154705-i1883rg",
+    "rootID": "20241118164010-fzwebrc",
     "icon": "",
-    "title": "文档参考"
+    "title": "未命名"
+  },
+  {
+    "rootID": "20241105103054-g2stry2",
+    "icon": "",
+    "title": "金丝雀发布"
   },
   {
     "rootID": "20241031111740-8q40i3v",
@@ -10,39 +15,34 @@
     "title": "云端镜像推送到私服Harbor"
   },
   {
+    "rootID": "20241101173527-zbzd2rl",
+    "icon": "",
+    "title": ".net8镜像打包"
+  },
+  {
+    "rootID": "20241108140222-przu0a8",
+    "icon": "",
+    "title": "Harbor镜像私服安装"
+  },
+  {
+    "rootID": "20241101114108-45uh7p7",
+    "icon": "",
+    "title": "k8s服务器节点扩容缩容"
+  },
+  {
+    "rootID": "20241101104457-emmj6zq",
+    "icon": "",
+    "title": "服务器环境准备"
+  },
+  {
+    "rootID": "20241104105112-pmjtzd1",
+    "icon": "",
+    "title": "本地开发环境信息"
+  },
+  {
     "rootID": "20241031095755-jnj3tgm",
     "icon": "",
     "title": "redis部署"
-  },
-  {
-    "rootID": "20200812220555-lj3enxa",
-    "icon": "1f389",
-    "title": " k8s常见的存储插件 (StorageClass)"
-  },
-  {
-    "rootID": "20201210103036-1x3vm8t",
-    "icon": "",
-    "title": "文档块和标题块的转换"
-  },
-  {
-    "rootID": "20210615211733-v6rzowm",
-    "icon": "",
-    "title": "数据历史"
-  },
-  {
-    "rootID": "20201117101902-2ewjjum",
-    "icon": "",
-    "title": "嵌入内容块"
-  },
-  {
-    "rootID": "20200922101913-d5yitmq",
-    "icon": "",
-    "title": "图标"
-  },
-  {
-    "rootID": "20200922102318-oz84yu3",
-    "icon": "",
-    "title": "主题"
   },
   {
     "rootID": "20241030150527-pt1ramv",
@@ -50,48 +50,48 @@
     "title": "k8s常用的存储插件"
   },
   {
-    "rootID": "20200813131152-0wk5akh",
+    "rootID": "20241031175141-u6xxplh",
     "icon": "",
-    "title": "在内容块中遨游"
+    "title": "Kubernetes基础概念"
   },
   {
-    "rootID": "20240208113259-nykkvaq",
-    "icon": "1f5c3-fe0f",
-    "title": "数据库"
-  },
-  {
-    "rootID": "20200813013559-sgbzl5k",
+    "rootID": "20241111162913-i6542ps",
     "icon": "",
-    "title": "引用内容块"
+    "title": ".net服务devops部署"
   },
   {
-    "rootID": "20230805222417-2lj3dvk",
-    "icon": "1f451",
-    "title": "会员特权"
-  },
-  {
-    "rootID": "20201004184819-nj8ibyg",
+    "rootID": "20241104143817-xnpakvg",
     "icon": "",
-    "title": "在浏览器上使用"
+    "title": "DevOps基础与实战"
   },
   {
-    "rootID": "20210331200042-94gs1hh",
+    "rootID": "20241031154705-i1883rg",
     "icon": "",
-    "title": "超链接"
+    "title": "资料参考"
   },
   {
-    "rootID": "20200813004931-q4cu8na",
+    "rootID": "20241106173938-t4z4fy5",
     "icon": "",
-    "title": "什么是内容块"
+    "title": "重新安装devops"
   },
   {
-    "rootID": "20230422103807-d46wjhs",
+    "rootID": "20241108133806-njkqf6r",
     "icon": "",
-    "title": "数据可用性保障"
+    "title": "java服务devops"
   },
   {
-    "rootID": "20210808180320-fqgskfj",
-    "icon": "1f36b",
-    "title": "内容块"
+    "rootID": "20241105164655-iyw3dou",
+    "icon": "",
+    "title": "修改运行中的jenkins pod 配置 [注意最好不要更新插件否则可能导致相关模块需要重装]"
+  },
+  {
+    "rootID": "20241031175026-qw3wf09",
+    "icon": "",
+    "title": "Kubernetes实战入门"
+  },
+  {
+    "rootID": "20241101114055-w3kkhsr",
+    "icon": "",
+    "title": "kubeSphere实战"
   }
 ]
