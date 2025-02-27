@@ -17,7 +17,7 @@
     ],
     "themeDark": "midnight",
     "themeLight": "daylight",
-    "themeVer": "1.0.7",
+    "themeVer": "1.0.8",
     "icons": [
       "ant",
       "material"
@@ -32,6 +32,10 @@
     "hideStatusBar": false
   },
   "langs": [
+    {
+      "label": "العربية",
+      "name": "ar_SA"
+    },
     {
       "label": "Deutsch",
       "name": "de_DE"
@@ -53,7 +57,7 @@
       "name": "he_IL"
     },
     {
-      "label": "Inglese",
+      "label": "Italiano",
       "name": "it_IT"
     },
     {
@@ -137,11 +141,12 @@
       "inlineSub": true,
       "inlineTag": true,
       "inlineMath": true,
-      "inlineStrikethrough": true
+      "inlineStrikethrough": true,
+      "inlineMark": false
     }
   },
   "export": {
-    "paragraphBeginningSpace": false,
+    "paragraphBeginningSpace": true,
     "addTitle": true,
     "blockRefMode": 4,
     "blockEmbedMode": 1,
@@ -149,12 +154,12 @@
     "blockRefTextRight": "",
     "tagOpenMarker": "#",
     "tagCloseMarker": "#",
-    "fileAnnotationRefMode": 0,
+    "fileAnnotationRefMode": 1,
     "pandocBin": "G:\\k8s\\temp\\pandoc\\bin\\pandoc.exe",
     "markdownYFM": false,
     "pdfFooter": "%page / %pages",
     "docxTemplate": "",
-    "pdfWatermarkStr": "",
+    "pdfWatermarkStr": "D:\\net-workspace\\自助\\branches\\柯尼达采集web管理端",
     "pdfWatermarkDesc": "",
     "imageWatermarkStr": "",
     "imageWatermarkDesc": ""
@@ -237,7 +242,7 @@
               ],
               "direction": "tb",
               "instance": "Layout",
-              "size": "232px",
+              "size": "248px",
               "type": "left"
             },
             {
@@ -245,125 +250,125 @@
                 {
                   "children": [
                     {
-                      "activeTime": "1731919347946",
+                      "activeTime": "1740380051529",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20241105103054-g2stry2",
+                        "blockId": "20250224104125-eaw2y1v",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20241030150519-ipaot2r",
-                        "rootId": "20241105103054-g2stry2"
+                        "notebookId": "20250224104022-jcgh0gu",
+                        "rootId": "20250224104125-eaw2y1v"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "金丝雀发布"
+                      "title": "DeepSeek-R1系列大模型部署硬件条件"
                     },
                     {
-                      "activeTime": "1731920048869",
+                      "activeTime": "1740380052407",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20241118164656-sp8r0k2",
+                        "blockId": "20250224104406-ut2yzqv",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20250224104022-jcgh0gu",
+                        "rootId": "20250224104406-ut2yzqv"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "详细！离线部署大模型：ollama+deepseek+open-webui安装使用方法及常见问题解决"
+                    },
+                    {
+                      "activeTime": "1740647226953",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20250224151353-f4z1fbd",
                         "instance": "Editor",
                         "mode": "wysiwyg",
                         "notebookId": "20241118164557-wuyqkf0",
-                        "rootId": "20241118164656-sp8r0k2"
+                        "rootId": "20250224151353-f4z1fbd"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "web3方向设想"
+                      "title": "barter相关记录"
+                    },
+                    {
+                      "activeTime": "1740647377758",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20250227170935-s2fmrdg",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20250224104538-fa4crog",
+                        "rootId": "20250227170935-s2fmrdg"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "只能合约语言"
+                    },
+                    {
+                      "activeTime": "1740647419655",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20250227170952-d78kkj3",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20250224104538-fa4crog",
+                        "rootId": "20250227170952-d78kkj3"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "move语言"
+                    },
+                    {
+                      "activeTime": "1740647440971",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20250227171023-teaotu8",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20250224104538-fa4crog",
+                        "rootId": "20250227171023-teaotu8"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "开发环境搭建"
+                    },
+                    {
+                      "activeTime": "1740647448591",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20250224104541-2zmwaq8",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20250224104538-fa4crog",
+                        "rootId": "20250224104541-2zmwaq8"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "螃蟹语言"
                     },
                     {
                       "active": true,
-                      "activeTime": "1732073474180",
+                      "activeTime": "1740647481819",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20241118164604-e387w5q",
+                        "blockId": "20250227171059-ud18lsc",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20241118164557-wuyqkf0",
-                        "rootId": "20241118164604-e387w5q"
+                        "notebookId": "20250224104538-fa4crog",
+                        "rootId": "20250227171059-ud18lsc"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "概念业务设计手稿"
-                    },
-                    {
-                      "activeTime": "1731572008341",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20241101173527-zbzd2rl",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20241030150519-ipaot2r",
-                        "rootId": "20241101173527-zbzd2rl"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": ".net8镜像打包"
-                    },
-                    {
-                      "activeTime": "1731574024947",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20241031111740-8q40i3v",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20241030150519-ipaot2r",
-                        "rootId": "20241031111740-8q40i3v"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "云端镜像推送到私服Harbor"
-                    },
-                    {
-                      "activeTime": "1731568671098",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20241101104457-emmj6zq",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20241030150519-ipaot2r",
-                        "rootId": "20241101104457-emmj6zq"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "服务器环境准备"
-                    },
-                    {
-                      "activeTime": "1731568701719",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20241101114108-45uh7p7",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20241030150519-ipaot2r",
-                        "rootId": "20241101114108-45uh7p7"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "k8s服务器节点扩容缩容"
-                    },
-                    {
-                      "activeTime": "1731568708028",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20241108140222-przu0a8",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20241030150519-ipaot2r",
-                        "rootId": "20241108140222-przu0a8"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "Harbor镜像私服安装"
+                      "title": "优秀实践建议"
                     }
                   ],
                   "height": "",
@@ -434,7 +439,7 @@
             "show": true,
             "size": {
               "height": 0,
-              "width": 232
+              "width": 248
             },
             "title": "文档树",
             "type": "file"
@@ -549,27 +554,25 @@
     "127.0.0.1",
     "192.168.1.227",
     "10.10.10.3",
-    "172.18.48.1",
-    "30.233.233.233",
-    "169.254.181.35",
+    "192.168.38.1",
+    "172.25.48.1",
     "169.254.225.31",
-    "169.254.91.217",
-    "169.254.67.110",
+    "169.254.40.191",
+    "169.254.181.35",
     "[::1]",
-    "[fe80::864:e847:33b4:131]",
     "[fe80::78a1:60f6:c70b:cf87]",
-    "[fe80::21f1:a25d:aabf:b523]",
     "[fe80::2d6e:cf90:352:e11f]",
     "[fe80::1de5:e664:c55c:a2b]",
-    "[fe80::d915:785e:858:5bd9]",
-    "[fe80::b9e9:4d80:fc2d:436e]",
-    "[fe80::984f:b714:e974:9946]"
+    "[fe80::41c7:ac83:f62b:28bf]",
+    "[fe80::f1f4:ebc9:2e12:e676]",
+    "[fe80::21f1:a25d:aabf:b523]",
+    "[fe80::acfe:ecd6:13c:2984]"
   ],
   "accessAuthCode": "",
   "system": {
     "id": "99489ec8-1c01-433d-9bff-9a7efaa1ab87",
     "name": "XyAn",
-    "kernelVersion": "3.1.11",
+    "kernelVersion": "3.1.22",
     "os": "windows",
     "osPlatform": "Microsoft Windows 10 Pro",
     "container": "std",
@@ -586,11 +589,12 @@
       "host": "",
       "port": ""
     },
-    "uploadErrLog": false,
     "disableGoogleAnalytics": false,
     "downloadInstallPkg": true,
     "autoLaunch2": 0,
-    "lockScreenMode": 0
+    "lockScreenMode": 0,
+    "disabledFeatures": [],
+    "microsoftDefenderExcluded": true
   },
   "keymap": {
     "editor": {
@@ -794,6 +798,10 @@
         "spaceRepetition": {
           "custom": "⌥F",
           "default": "⌥F"
+        },
+        "switchAdjust": {
+          "custom": "",
+          "default": ""
         },
         "switchReadonly": {
           "custom": "",
@@ -1233,6 +1241,7 @@
     "enabled": false,
     "perception": false,
     "mode": 1,
+    "interval": 30,
     "synced": 0,
     "stat": "",
     "generateConflictDoc": false,
@@ -1255,6 +1264,11 @@
       "skipTlsVerify": true,
       "timeout": 60,
       "concurrentReqs": 1
+    },
+    "local": {
+      "endpoint": "",
+      "timeout": 60,
+      "concurrentReqs": 16
     }
   },
   "search": {
@@ -1315,7 +1329,7 @@
       "apiTemperature": 1,
       "apiMaxContexts": 7,
       "apiBaseURL": "https://api.openai.com/v1",
-      "apiUserAgent": "SiYuan/3.1.11 std/windows",
+      "apiUserAgent": "SiYuan/3.1.22 std/windows",
       "apiProvider": "OpenAI",
       "apiVersion": ""
     }
@@ -1325,13 +1339,13 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 21,
+    "treeCount": 28,
     "cTreeCount": 100,
-    "blockCount": 2298,
+    "blockCount": 3687,
     "cBlockCount": 5000,
-    "dataSize": 2214155,
+    "dataSize": 3025289,
     "cDataSize": 104857600,
-    "assetsSize": 1864928,
+    "assetsSize": 2446710,
     "cAssetsSize": 104857600
   },
   "api": {
@@ -1339,7 +1353,9 @@
   },
   "repo": {
     "key": null,
-    "syncIndexTiming": 12000
+    "syncIndexTiming": 12000,
+    "indexRetentionDays": 180,
+    "retentionIndexesDaily": 2
   },
   "publish": {
     "enable": false,

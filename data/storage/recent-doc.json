@@ -1,13 +1,128 @@
 [
   {
-    "rootID": "20241118164604-e387w5q",
+    "rootID": "20250227171059-ud18lsc",
     "icon": "",
-    "title": "概念业务设计手稿"
+    "title": "未命名"
+  },
+  {
+    "rootID": "20250224104541-2zmwaq8",
+    "icon": "",
+    "title": "螃蟹语言"
+  },
+  {
+    "rootID": "20250227171023-teaotu8",
+    "icon": "",
+    "title": "开发环境搭建"
+  },
+  {
+    "rootID": "20250227170952-d78kkj3",
+    "icon": "",
+    "title": "move语言"
+  },
+  {
+    "rootID": "20250227170935-s2fmrdg",
+    "icon": "",
+    "title": "只能合约语言"
+  },
+  {
+    "rootID": "20250224151353-f4z1fbd",
+    "icon": "",
+    "title": "barter相关记录"
+  },
+  {
+    "rootID": "20241101104457-emmj6zq",
+    "icon": "",
+    "title": "服务器环境准备"
+  },
+  {
+    "rootID": "20241108140222-przu0a8",
+    "icon": "",
+    "title": "Harbor镜像私服安装"
+  },
+  {
+    "rootID": "20241104105112-pmjtzd1",
+    "icon": "",
+    "title": "本地开发环境信息"
+  },
+  {
+    "rootID": "20241101173527-zbzd2rl",
+    "icon": "",
+    "title": ".net8镜像打包"
+  },
+  {
+    "rootID": "20250224104406-ut2yzqv",
+    "icon": "",
+    "title": "详细！离线部署大模型：ollama+deepseek+open-webui安装使用方法及常见问题解决"
+  },
+  {
+    "rootID": "20250224104125-eaw2y1v",
+    "icon": "",
+    "title": "DeepSeek-R1系列大模型部署硬件条件"
+  },
+  {
+    "rootID": "20250224104025-nyvimgj",
+    "icon": "",
+    "title": "DeepSeek-R1大模型"
+  },
+  {
+    "rootID": "20250213113038-p3jctwx",
+    "icon": "",
+    "title": "                                                   采集网站web端项目交接文档"
   },
   {
     "rootID": "20241118164656-sp8r0k2",
     "icon": "",
     "title": "web3方向设想"
+  },
+  {
+    "rootID": "20250213112836-duc7ht9",
+    "icon": "",
+    "title": "院内项目"
+  },
+  {
+    "rootID": "20241118164604-e387w5q",
+    "icon": "",
+    "title": "概念业务设计手稿"
+  },
+  {
+    "rootID": "20241031095755-jnj3tgm",
+    "icon": "",
+    "title": "redis部署"
+  },
+  {
+    "rootID": "20241101114055-w3kkhsr",
+    "icon": "",
+    "title": "kubeSphere实战"
+  },
+  {
+    "rootID": "20241101114108-45uh7p7",
+    "icon": "",
+    "title": "k8s服务器节点扩容缩容"
+  },
+  {
+    "rootID": "20241104143817-xnpakvg",
+    "icon": "",
+    "title": "DevOps基础与实战"
+  },
+  {
+    "rootID": "20241030150527-pt1ramv",
+    "icon": "",
+    "title": "k8s常用的存储插件"
+  },
+  {
+    "rootID": "20241031111740-8q40i3v",
+    "icon": "",
+    "title": "云端镜像推送到私服Harbor"
+  },
+  {
+    "rootID": "20241031154705-i1883rg",
+    "icon": "",
+    "title": "资料参考"
+  },
+  {
+    "rootID": "20241031175026-qw3wf09",
+    "icon": "",
+    "title": "Kubernetes实战入门"
   },
   {
     "rootID": "20241118164010-fzwebrc",
@@ -20,46 +135,6 @@
     "title": "金丝雀发布"
   },
   {
-    "rootID": "20241031111740-8q40i3v",
-    "icon": "",
-    "title": "云端镜像推送到私服Harbor"
-  },
-  {
-    "rootID": "20241101173527-zbzd2rl",
-    "icon": "",
-    "title": ".net8镜像打包"
-  },
-  {
-    "rootID": "20241108140222-przu0a8",
-    "icon": "",
-    "title": "Harbor镜像私服安装"
-  },
-  {
-    "rootID": "20241101114108-45uh7p7",
-    "icon": "",
-    "title": "k8s服务器节点扩容缩容"
-  },
-  {
-    "rootID": "20241101104457-emmj6zq",
-    "icon": "",
-    "title": "服务器环境准备"
-  },
-  {
-    "rootID": "20241104105112-pmjtzd1",
-    "icon": "",
-    "title": "本地开发环境信息"
-  },
-  {
-    "rootID": "20241031095755-jnj3tgm",
-    "icon": "",
-    "title": "redis部署"
-  },
-  {
-    "rootID": "20241030150527-pt1ramv",
-    "icon": "",
-    "title": "k8s常用的存储插件"
-  },
-  {
     "rootID": "20241031175141-u6xxplh",
     "icon": "",
     "title": "Kubernetes基础概念"
@@ -68,16 +143,6 @@
     "rootID": "20241111162913-i6542ps",
     "icon": "",
     "title": ".net服务devops部署"
-  },
-  {
-    "rootID": "20241104143817-xnpakvg",
-    "icon": "",
-    "title": "DevOps基础与实战"
-  },
-  {
-    "rootID": "20241031154705-i1883rg",
-    "icon": "",
-    "title": "资料参考"
   },
   {
     "rootID": "20241106173938-t4z4fy5",
@@ -93,15 +158,5 @@
     "rootID": "20241105164655-iyw3dou",
     "icon": "",
     "title": "修改运行中的jenkins pod 配置 [注意最好不要更新插件否则可能导致相关模块需要重装]"
-  },
-  {
-    "rootID": "20241031175026-qw3wf09",
-    "icon": "",
-    "title": "Kubernetes实战入门"
-  },
-  {
-    "rootID": "20241101114055-w3kkhsr",
-    "icon": "",
-    "title": "kubeSphere实战"
   }
 ]
