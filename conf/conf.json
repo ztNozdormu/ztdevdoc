@@ -250,82 +250,8 @@
                 {
                   "children": [
                     {
-                      "activeTime": "1740380051529",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250224104125-eaw2y1v",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250224104022-jcgh0gu",
-                        "rootId": "20250224104125-eaw2y1v"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "DeepSeek-R1系列大模型部署硬件条件"
-                    },
-                    {
-                      "activeTime": "1740380052407",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250224104406-ut2yzqv",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250224104022-jcgh0gu",
-                        "rootId": "20250224104406-ut2yzqv"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "详细！离线部署大模型：ollama+deepseek+open-webui安装使用方法及常见问题解决"
-                    },
-                    {
-                      "activeTime": "1740647226953",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250224151353-f4z1fbd",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20241118164557-wuyqkf0",
-                        "rootId": "20250224151353-f4z1fbd"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "barter相关记录"
-                    },
-                    {
-                      "activeTime": "1740647377758",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250227170935-s2fmrdg",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250224104538-fa4crog",
-                        "rootId": "20250227170935-s2fmrdg"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "只能合约语言"
-                    },
-                    {
-                      "activeTime": "1740647419655",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250227170952-d78kkj3",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250224104538-fa4crog",
-                        "rootId": "20250227170952-d78kkj3"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "move语言"
-                    },
-                    {
-                      "activeTime": "1740647440971",
+                      "active": true,
+                      "activeTime": "1740649785641",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20250227171023-teaotu8",
@@ -340,7 +266,7 @@
                       "title": "开发环境搭建"
                     },
                     {
-                      "activeTime": "1740647448591",
+                      "activeTime": "1740649780248",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20250224104541-2zmwaq8",
@@ -353,22 +279,6 @@
                       "instance": "Tab",
                       "pin": false,
                       "title": "螃蟹语言"
-                    },
-                    {
-                      "active": true,
-                      "activeTime": "1740647481819",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250227171059-ud18lsc",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250224104538-fa4crog",
-                        "rootId": "20250227171059-ud18lsc"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "优秀实践建议"
                     }
                   ],
                   "height": "",
@@ -1339,11 +1249,11 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 28,
+    "treeCount": 34,
     "cTreeCount": 100,
-    "blockCount": 3687,
+    "blockCount": 3767,
     "cBlockCount": 5000,
-    "dataSize": 3025289,
+    "dataSize": 3070209,
     "cDataSize": 104857600,
     "assetsSize": 2446710,
     "cAssetsSize": 104857600
