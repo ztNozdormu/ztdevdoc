@@ -155,7 +155,7 @@
     "tagOpenMarker": "#",
     "tagCloseMarker": "#",
     "fileAnnotationRefMode": 1,
-    "pandocBin": "G:\\k8s\\temp\\pandoc\\bin\\pandoc.exe",
+    "pandocBin": "/Volumes/work/doc/ztdevdoc/temp/pandoc/bin/pandoc",
     "markdownYFM": false,
     "pdfFooter": "%page / %pages",
     "docxTemplate": "",
@@ -250,8 +250,7 @@
                 {
                   "children": [
                     {
-                      "active": true,
-                      "activeTime": "1740649785641",
+                      "activeTime": "1740907362237",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20250227171023-teaotu8",
@@ -266,7 +265,23 @@
                       "title": "开发环境搭建"
                     },
                     {
-                      "activeTime": "1740649780248",
+                      "active": true,
+                      "activeTime": "1740907372553",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20250302172028-qk1da7o",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20250224104538-fa4crog",
+                        "rootId": "20250302172028-qk1da7o"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "sui操作命令"
+                    },
+                    {
+                      "activeTime": "1740906887303",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20250224104541-2zmwaq8",
@@ -343,7 +358,7 @@
       "data": [
         [
           {
-            "hotkey": "⌥1",
+            "hotkey": "⌃1",
             "hotkeyLangId": "fileTree",
             "icon": "iconFiles",
             "show": true,
@@ -355,7 +370,7 @@
             "type": "file"
           },
           {
-            "hotkey": "⌥2",
+            "hotkey": "⌃2",
             "hotkeyLangId": "outline",
             "icon": "iconAlignCenter",
             "show": false,
@@ -367,7 +382,7 @@
             "type": "outline"
           },
           {
-            "hotkey": "⌥6",
+            "hotkey": "⌃6",
             "hotkeyLangId": "inbox",
             "icon": "iconInbox",
             "show": false,
@@ -381,7 +396,7 @@
         ],
         [
           {
-            "hotkey": "⌥3",
+            "hotkey": "⌃3",
             "hotkeyLangId": "bookmark",
             "icon": "iconBookmark",
             "show": false,
@@ -393,7 +408,7 @@
             "type": "bookmark"
           },
           {
-            "hotkey": "⌥4",
+            "hotkey": "⌃4",
             "hotkeyLangId": "tag",
             "icon": "iconTags",
             "show": false,
@@ -412,7 +427,7 @@
       "data": [
         [
           {
-            "hotkey": "⌥8",
+            "hotkey": "⌃8",
             "hotkeyLangId": "graphView",
             "icon": "iconGraph",
             "show": false,
@@ -424,7 +439,7 @@
             "type": "graph"
           },
           {
-            "hotkey": "⌥9",
+            "hotkey": "⌃9",
             "hotkeyLangId": "globalGraph",
             "icon": "iconGlobalGraph",
             "show": false,
@@ -438,7 +453,7 @@
         ],
         [
           {
-            "hotkey": "⌥7",
+            "hotkey": "⌃7",
             "hotkeyLangId": "backlinks",
             "icon": "iconLink",
             "show": false,
@@ -462,37 +477,44 @@
   "readonly": false,
   "localIPs": [
     "127.0.0.1",
-    "192.168.1.227",
-    "10.10.10.3",
-    "192.168.38.1",
-    "172.25.48.1",
-    "169.254.225.31",
-    "169.254.40.191",
-    "169.254.181.35",
+    "192.168.10.8",
+    "192.168.10.9",
+    "192.168.215.0",
+    "198.19.249.3",
     "[::1]",
-    "[fe80::78a1:60f6:c70b:cf87]",
-    "[fe80::2d6e:cf90:352:e11f]",
-    "[fe80::1de5:e664:c55c:a2b]",
-    "[fe80::41c7:ac83:f62b:28bf]",
-    "[fe80::f1f4:ebc9:2e12:e676]",
-    "[fe80::21f1:a25d:aabf:b523]",
-    "[fe80::acfe:ecd6:13c:2984]"
+    "[fd07:b51a:cc66:0:a617:db5e:ab7:e9f1]",
+    "[2409:8a62:b451:6721:10b7:b181:4836:ce43]",
+    "[2409:8a62:b451:6721:6ccc:79cf:d263:516a]",
+    "[2409:8a62:b451:6721:c3b:ecf5:19b3:acf7]",
+    "[2409:8a62:b451:6721:e518:e7e4:e1dc:5b4d]",
+    "[fe80::1]",
+    "[fe80::6cc1:90ff:fe65:56ba]",
+    "[fe80::6cc1:90ff:fe65:56bb]",
+    "[fe80::bd:eb67:8456:39b3]",
+    "[fe80::7c1b:f4ff:fe9b:4a4f]",
+    "[fe80::c48:cf20:6076:ad]",
+    "[fe80::28a4:8eff:fe09:1e16]",
+    "[fe80::efb7:d9fc:7ecb:f97c]",
+    "[fe80::7dab:5a44:e149:efd2]",
+    "[fe80::ce81:b1c:bd2c:69e]",
+    "[fe80::5c1b:f4ff:fe19:4564]",
+    "[fe80::5c1b:f4ff:fe19:4565]"
   ],
   "accessAuthCode": "",
   "system": {
-    "id": "99489ec8-1c01-433d-9bff-9a7efaa1ab87",
-    "name": "XyAn",
-    "kernelVersion": "3.1.22",
-    "os": "windows",
-    "osPlatform": "Microsoft Windows 10 Pro",
+    "id": "34112865-D98A-5276-81A5-0A3B16CE4A79",
+    "name": "appledeMac-mini.local",
+    "kernelVersion": "3.1.23",
+    "os": "darwin",
+    "osPlatform": "darwin",
     "container": "std",
     "isMicrosoftStore": false,
     "isInsider": false,
-    "homeDir": "C:\\Users\\Administrator",
-    "workspaceDir": "E:\\opso-worspace\\ztdevdoc",
-    "appDir": "F:\\tools\\SiYuan\\resources",
-    "confDir": "E:\\opso-worspace\\ztdevdoc\\conf",
-    "dataDir": "E:\\opso-worspace\\ztdevdoc\\data",
+    "homeDir": "/Users/apple",
+    "workspaceDir": "/Volumes/work/doc/ztdevdoc",
+    "appDir": "/Applications/SiYuan.app/Contents/Resources",
+    "confDir": "/Volumes/work/doc/ztdevdoc/conf",
+    "dataDir": "/Volumes/work/doc/ztdevdoc/data",
     "networkServe": false,
     "networkProxy": {
       "scheme": "",
@@ -510,6 +532,10 @@
     "editor": {
       "general": {
         "ai": {
+          "custom": "",
+          "default": ""
+        },
+        "aiWriting": {
           "custom": "",
           "default": ""
         },
@@ -633,6 +659,10 @@
           "custom": "⇧⌘M",
           "default": "⇧⌘M"
         },
+        "ltr": {
+          "custom": "",
+          "default": ""
+        },
         "moveToDown": {
           "custom": "⇧⌘↓",
           "default": "⇧⌘↓"
@@ -700,6 +730,10 @@
         "rename": {
           "custom": "F2",
           "default": "F2"
+        },
+        "rtl": {
+          "custom": "",
+          "default": ""
         },
         "showInFolder": {
           "custom": "⌥A",
@@ -917,12 +951,12 @@
         "default": ""
       },
       "backlinks": {
-        "custom": "⌥7",
-        "default": "⌥7"
+        "custom": "⌃7",
+        "default": "⌃7"
       },
       "bookmark": {
-        "custom": "⌥3",
-        "default": "⌥3"
+        "custom": "⌃3",
+        "default": "⌃3"
       },
       "closeAll": {
         "custom": "",
@@ -957,8 +991,8 @@
         "default": "⌥P"
       },
       "dailyNote": {
-        "custom": "⌥5",
-        "default": "⌥5"
+        "custom": "⌃5",
+        "default": "⌃5"
       },
       "dataHistory": {
         "custom": "⌥H",
@@ -977,12 +1011,12 @@
         "default": "⌥←"
       },
       "fileTree": {
-        "custom": "⌥1",
-        "default": "⌥1"
+        "custom": "⌃1",
+        "default": "⌃1"
       },
       "globalGraph": {
-        "custom": "⌥9",
-        "default": "⌥9"
+        "custom": "⌃9",
+        "default": "⌃9"
       },
       "globalSearch": {
         "custom": "⌘P",
@@ -1049,12 +1083,12 @@
         "default": "⇧⌘["
       },
       "graphView": {
-        "custom": "⌥8",
-        "default": "⌥8"
+        "custom": "⌃8",
+        "default": "⌃8"
       },
       "inbox": {
-        "custom": "⌥6",
-        "default": "⌥6"
+        "custom": "⌃6",
+        "default": "⌃6"
       },
       "lockScreen": {
         "custom": "⌥N",
@@ -1073,8 +1107,8 @@
         "default": "⌘N"
       },
       "outline": {
-        "custom": "⌥2",
-        "default": "⌥2"
+        "custom": "⌃2",
+        "default": "⌃2"
       },
       "recentDocs": {
         "custom": "⌘E",
@@ -1085,8 +1119,8 @@
         "default": "⌘R"
       },
       "riffCard": {
-        "custom": "⌥0",
-        "default": "⌥0"
+        "custom": "⌃0",
+        "default": "⌃0"
       },
       "search": {
         "custom": "⌘F",
@@ -1125,8 +1159,8 @@
         "default": ""
       },
       "tag": {
-        "custom": "⌥4",
-        "default": "⌥4"
+        "custom": "⌃4",
+        "default": "⌃4"
       },
       "toggleDock": {
         "custom": "",
@@ -1239,7 +1273,7 @@
       "apiTemperature": 1,
       "apiMaxContexts": 7,
       "apiBaseURL": "https://api.openai.com/v1",
-      "apiUserAgent": "SiYuan/3.1.22 std/windows",
+      "apiUserAgent": "SiYuan/3.1.23 std/darwin",
       "apiProvider": "OpenAI",
       "apiVersion": ""
     }
@@ -1251,9 +1285,9 @@
   "stat": {
     "treeCount": 34,
     "cTreeCount": 100,
-    "blockCount": 3767,
+    "blockCount": 1573,
     "cBlockCount": 5000,
-    "dataSize": 3070209,
+    "dataSize": 3062290,
     "cDataSize": 104857600,
     "assetsSize": 2446710,
     "cAssetsSize": 104857600
