@@ -1,8 +1,13 @@
 [
   {
-    "rootID": "20250302172028-qk1da7o",
+    "rootID": "20250302181358-94a6qh9",
     "icon": "",
     "title": "未命名"
+  },
+  {
+    "rootID": "20250302172028-qk1da7o",
+    "icon": "",
+    "title": "sui操作命令"
   },
   {
     "rootID": "20250224104541-2zmwaq8",
@@ -153,10 +158,5 @@
     "rootID": "20241031175141-u6xxplh",
     "icon": "",
     "title": "Kubernetes基础概念"
-  },
-  {
-    "rootID": "20241111162913-i6542ps",
-    "icon": "",
-    "title": ".net服务devops部署"
   }
 ]

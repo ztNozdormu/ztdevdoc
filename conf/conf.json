@@ -1,7 +1,7 @@
 {
   "logLevel": "debug",
   "appearance": {
-    "mode": 0,
+    "mode": 1,
     "modeOS": true,
     "darkThemes": [
       {
@@ -265,8 +265,7 @@
                       "title": "开发环境搭建"
                     },
                     {
-                      "active": true,
-                      "activeTime": "1740907372553",
+                      "activeTime": "1740910410551",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20250302172028-qk1da7o",
@@ -279,6 +278,22 @@
                       "instance": "Tab",
                       "pin": false,
                       "title": "sui操作命令"
+                    },
+                    {
+                      "active": true,
+                      "activeTime": "1740910546497",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20250302181358-94a6qh9",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20250302181354-9x471le",
+                        "rootId": "20250302181358-94a6qh9"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "量化交易相关"
                     },
                     {
                       "activeTime": "1740906887303",
@@ -1283,11 +1298,11 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 34,
+    "treeCount": 35,
     "cTreeCount": 100,
-    "blockCount": 1573,
+    "blockCount": 1630,
     "cBlockCount": 5000,
-    "dataSize": 3062290,
+    "dataSize": 3073062,
     "cDataSize": 104857600,
     "assetsSize": 2446710,
     "cAssetsSize": 104857600

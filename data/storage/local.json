@@ -331,12 +331,12 @@
       "startId": "20250227170952-kt9twuj"
     },
     "20250227171023-teaotu8": {
-      "endId": "20250227171023-67splgk",
+      "endId": "20250302171520-mtvqtbu",
       "focusEnd": 0,
-      "focusId": "20250227171023-67splgk",
+      "focusId": "20250302171652-xv3z1g1",
       "focusStart": 0,
       "rootId": "20250227171023-teaotu8",
-      "scrollTop": 0,
+      "scrollTop": 413,
       "startId": "20250227171023-67splgk"
     },
     "20250227171059-ud18lsc": {
@@ -365,19 +365,28 @@
       "rootId": "20250227174853-5ys6guw",
       "scrollTop": 0,
       "startId": "20250227174928-qtm3jgi"
+    },
+    "20250302172028-qk1da7o": {
+      "endId": "20250302172255-8tdxcb9",
+      "rootId": "20250302172028-qk1da7o",
+      "scrollTop": 0,
+      "startId": "20250302172028-fo07pz3"
+    },
+    "20250302181358-94a6qh9": {
+      "endId": "20250302194806-42an6rx",
+      "focusEnd": 0,
+      "focusId": "20250302194806-42an6rx",
+      "focusStart": 0,
+      "rootId": "20250302181358-94a6qh9",
+      "scrollTop": 505.5,
+      "startId": "20250302181358-3rrb9pu"
     }
   },
   "local-filespaths": [
     {
-      "notebookId": "20250224104538-fa4crog",
+      "notebookId": "20250302181354-9x471le",
       "openPaths": [
-        "/20250227170935-s2fmrdg/20250227170952-d78kkj3/20250302172028-qk1da7o.sy"
-      ]
-    },
-    {
-      "notebookId": "20250227174835-s8tt05u",
-      "openPaths": [
-        "/20250227174838-br3sn1f/20250227174853-5ys6guw.sy"
+        "/20250302181358-94a6qh9.sy"
       ]
     }
   ],
